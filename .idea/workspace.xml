@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1341bb-4267-411f-bf14-9bb614fef729" name="Default" comment="add">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/GitTest.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/GitTest/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/GitTest/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/GitTest/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="4a92f622-2f37-4e04-b8bc-2b198cb6cd8d" name="test" comment="test" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -629,7 +625,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498979181592</updated>
-      <workItem from="1498979184757" duration="1901000" />
+      <workItem from="1498979184757" duration="1918000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1498980745323</created>
@@ -642,7 +638,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1901000" />
+    <option name="totallyTimeSpent" value="1918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
